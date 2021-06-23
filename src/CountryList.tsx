@@ -46,6 +46,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 5,
   },
   itemCountryName: {
+    marginLeft: 10,
     width: '90%',
   },
   list: {

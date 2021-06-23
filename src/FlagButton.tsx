@@ -29,7 +29,10 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
     alignItems: 'center',
   },
-  something: { fontSize: 16 },
+  something: {
+    fontSize: 16,
+    marginLeft: 10,
+  },
 })
 
 type FlagWithSomethingProp = Pick<

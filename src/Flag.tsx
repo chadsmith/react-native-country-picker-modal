@@ -16,7 +16,6 @@ const styles = StyleSheet.create({
   container: {
     justifyContent: 'center',
     alignItems: 'center',
-    marginRight: 10,
   },
   emojiFlag: {
     alignItems: 'center',
